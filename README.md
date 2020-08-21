@@ -5,3 +5,7 @@ Forge Analytics is a Full Stack Single Page Application which provides this data
 
 ## Analytics Dashboard
 <img width="438" alt="dashboard1" src="https://user-images.githubusercontent.com/23509230/90940130-c4f5af80-e3db-11ea-8710-6577f2198098.PNG">
+
+
+
+![dashboard2](https://user-images.githubusercontent.com/23509230/90940217-06865a80-e3dc-11ea-8b10-8091bcc4fca5.png)
